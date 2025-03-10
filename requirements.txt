@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+pandas-datareader
+Cython
+cmdstanpy
+prophet
