@@ -5,3 +5,5 @@ pandas-datareader
 Cython
 cmdstanpy
 prophet
+seaborn
+scikit-learn
