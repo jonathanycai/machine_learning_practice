@@ -7,3 +7,4 @@ cmdstanpy
 prophet
 seaborn
 scikit-learn
+statsmodels
